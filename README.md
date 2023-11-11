@@ -9,6 +9,3 @@ This project is a simple web application that generates images based on user inp
 Before you begin, ensure you have the following installed:
 - Modern Web Browser
 - Code editor (e.g., VS Code)
-
-
-2. 
